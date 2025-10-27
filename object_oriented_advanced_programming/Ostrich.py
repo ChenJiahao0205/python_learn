@@ -1,0 +1,2 @@
+class Ostrich(Bird):
+    pass
